@@ -4,7 +4,7 @@ function sleep(ms) {
 
 async function main() {
   while(true) {
-    console.log('Taufi\'s rule!');
+    console.log('Tanja\'s rule!');
     await sleep(5000);
   }
 }
